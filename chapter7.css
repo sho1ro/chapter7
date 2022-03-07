@@ -18,7 +18,7 @@ header .heading {
 
 main {
   width: 840px;
-  margin: 50px;
+  margin: 50px auto;
 }
 
 .blog-item {
